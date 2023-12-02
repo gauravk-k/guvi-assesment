@@ -43,12 +43,12 @@
 <p>Successful login should redirect to a profile page which should contain details such as first name , last name , email , contact number , date of birth , age . The user can update.</p>
 
 <h2>Tech Stack : </h2>
-<h3> HTML </h3>
-<h3> CSS </h3>
-<h3> JS </h3>
-<h3> PHP </h3>
-<h3> Mongodb </h3>
-<h3> Mtsql </h3>
+<h4> HTML </h4>
+<h4> CSS </h4>
+<h4> JS </h4>
+<h4> PHP </h4>
+<h4> Mongodb </h4>
+<h4> Mtsql </h4>
 
 
 
