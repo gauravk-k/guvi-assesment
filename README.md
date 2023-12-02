@@ -42,6 +42,14 @@
 <p>Create a signup page where a user can register , a login page to log in with the necessary details needed during registration.</p>
 <p>Successful login should redirect to a profile page which should contain details such as first name , last name , email , contact number , date of birth , age . The user can update.</p>
 
+<h2>Tech Stack : </h2>
+<h3> HTML </h3>
+<h3> CSS </h3>
+<h3> JS </h3>
+<h3> PHP </h3>
+<h3> Mongodb </h3>
+<h3> Mtsql </h3>
+
 
 
 
