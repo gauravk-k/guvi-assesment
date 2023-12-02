@@ -48,7 +48,7 @@
 <h4> JS </h4>
 <h4> PHP </h4>
 <h4> Mongodb </h4>
-<h4> Mtsql </h4>
+<h4> Mysql </h4>
 
 
 
