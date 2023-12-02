@@ -44,12 +44,12 @@
 <p>Successful login should redirect to a profile page which should contain details such as first name , last name , email , contact number , date of birth , age . The user can update.</p>
 
 <h2>Tech Stack : </h2>
-<h4> HTML </h4>
-<h4> CSS </h4>
-<h4> JS </h4>
-<h4> PHP </h4>
-<h4> Mongodb </h4>
-<h4> Mysql </h4>
+<h4>* HTML </h4>
+<h4>* CSS </h4>
+<h4>* JS </h4>
+<h4>* PHP </h4>
+<h4>* Mongodb </h4>
+<h4>* Mysql </h4>
 
 <h2> About Project : </h2>
 <p> The user registers to the portal by filling up the given credentials. The email should be in proper format . After registration you can login by providing the correct email id and password.After successful login profile page will be visible and to update your profile by clicking on update info button . </p>
