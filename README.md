@@ -1,7 +1,7 @@
 ﻿# guvi-assesment
  </br>
 
-  Register page :
+  <h2>REGISTER PAGE : </h2>
 
   </br>
 
