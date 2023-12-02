@@ -50,6 +50,15 @@
 <h4> Mongodb </h4>
 <h4> Mysql </h4>
 
+<h2> About Project : </h2>
+<p> The user registers to the portal by filling up the given credentials. The email should be in proper format . After registration you can login by providing the correct email id and password.After successful login profile page will be visible and to update your profile by clicking on update info button . </p>
+
+<h2>Features :</h2>
+* The email id must contain @ symbol.
+* The password is encrypted using sha1 encryption technique.
+* If the user enters wrong credentials the error page will be displayed.
+* If the user wants to update any of its details it can be done even after registration.
+
 
 
 
